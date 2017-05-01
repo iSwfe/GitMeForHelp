@@ -8,7 +8,6 @@
 * git push -u origin master
 * git push -u origin master (-f)
 
-
 # Remove existed remote origin repo: 
 * git remote rm origin
 
