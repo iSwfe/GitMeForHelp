@@ -1,7 +1,7 @@
 # Git "local's code" to github:
 ```echo "#README!" >> README.md``` or ```touch README.md```
 ```
-git init ## fefsef
+git init
 git add README.md
 git add .
 git commit -m "first commit"
