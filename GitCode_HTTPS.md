@@ -23,3 +23,8 @@ git remote rm origin
 ```
 git remote -v
 ```
+
+# Get all code from github website:
+```
+git fetch origin master
+```
